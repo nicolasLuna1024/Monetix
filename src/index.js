@@ -4,6 +4,7 @@
  */
 
 export * from './App'
+export * from './components/atomos/icono'
 export * from './components/moleculas/Btnsave'
 export * from './components/templates/HomeTemplate'
 export * from './components/templates/LoginTemplate'

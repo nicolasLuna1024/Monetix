@@ -12,7 +12,7 @@ export function LoginTemplate() {
             <Titulo>Monetix</Titulo>
             <p>Toma el control de tu dinero 💸 y alcanza tus metas 🎯</p>
             <ContainerBtn>
-                <Btnsave />
+                <Btnsave titulo="Iniciar con Google" />
             </ContainerBtn>
         </div>
     </Container>);
